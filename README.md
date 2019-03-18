@@ -1,6 +1,3 @@
-# book
-booknotes
-
 ### 假期读书指南|为什么你总是做不到睡前读书半小时？
 
 > 首发于公众号:pinkxixi-mj
